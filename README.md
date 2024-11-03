@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Girisssh/Girisssh/output/snake.svg" alt="Snake animation" />
-
-###
