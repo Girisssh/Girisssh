@@ -21,5 +21,8 @@ Hi there! 👋<br>I’m Girish Kumar Yadav<br><br>🎓 2nd-year B.Tech Computer 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Girisssh&icon=0&color=0)](https://visitcount.itsvg.in)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Girish/30-nites-of-code)  
+  ![@Girish #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Girish)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
